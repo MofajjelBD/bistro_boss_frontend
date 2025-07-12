@@ -14,6 +14,7 @@ yarn-error.log*
 
 # === Environment Files ===
 .env
+.env.local
 .env.*    # includes .env.local, .env.development, etc.
 
 # === OS Files ===
