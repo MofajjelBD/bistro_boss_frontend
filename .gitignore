@@ -7,7 +7,7 @@ dist/
 # === Vite Cache ===
 .vite/
 
-# === Log files ===
+# === Log files ===git rm --cached .env.local
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
