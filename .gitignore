@@ -1,0 +1,28 @@
+# === Node Modules ===
+node_modules/
+
+# === Build Output ===
+dist/
+
+# === Vite Cache ===
+.vite/
+
+# === Log files ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Environment Files ===
+.env
+.env.*    # includes .env.local, .env.development, etc.
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === IDE/editor ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
